@@ -39,3 +39,14 @@ A list of stuff you used (Git, Github, HTML, CSS and anything else)
 ### Manual testing
 
 - A table of manual tests
+
+| Test                    | Device     | Result       |
+| ----------------------- | ---------- | ------------ |
+|Check all pages render   | ALL        | Pass         |
+|Check input validation   |            |              |
+|on contact page          | ALL        | Pass         |
+|Check modal works        | Mobile     | Fail         |
+
+#### Bugs
+
+Modal did not work on iPhone so i did a,b and c to fix it a now it does after manual testing again
