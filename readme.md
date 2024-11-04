@@ -23,3 +23,19 @@ Here we discuss the design in terms of:
 - typography (show what typeface and why you choose it)
 - Imagery
 - Features (general site features, like sections and pages that fulfil teh user stories/requirements)
+
+## Languages, Tools & Technologies Used
+
+A list of stuff you used (Git, Github, HTML, CSS and anything else)
+
+## Testing
+
+### Validator testing
+
+- HTML Testing
+- CSS Testing
+- Lighthouse Testing
+
+### Manual testing
+
+- A table of manual tests
