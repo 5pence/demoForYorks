@@ -32,8 +32,8 @@ A list of stuff you used (Git, Github, HTML, CSS and anything else)
 
 ### Validator testing
 
-- HTML Testing
-- CSS Testing
+- HTML Testing [HTML Validator](https://validator.w3.org/) you must have NO errors (warnings okay) and test all pages
+- CSS Testing [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - Lighthouse Testing
 
 ### Manual testing
