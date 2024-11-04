@@ -8,6 +8,8 @@ Here we write a snappy couple of sentences about our project
 
 Here is where we can use [Multi screen picture](http://techsini.com/multi-mockup/index.php) to show what your site looks like on different pages.
 
+![Multi Device image](https://raw.githubusercontent.com/5pence/demoForYorks/refs/heads/main/assets/media/readmeDevice.png)
+
 ## User Stories
 
 Here is where we write a few user stories. Example:
