@@ -17,4 +17,9 @@ Here is where we write a few user stories. Example:
 
 ## Design
 
-Here we discuss the design
+Here we discuss the design in terms of:
+
+- colour palette (use Coolors image or link)
+- typography (show what typeface and why you choose it)
+- Imagery
+- Features (general site features, like sections and pages that fulfil teh user stories/requirements)
