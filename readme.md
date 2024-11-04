@@ -43,8 +43,7 @@ A list of stuff you used (Git, Github, HTML, CSS and anything else)
 | Test                    | Device     | Result       |
 | ----------------------- | ---------- | ------------ |
 |Check all pages render   | ALL        | Pass         |
-|Check input validation   |            |              |
-|on contact page          | ALL        | Pass         |
+|Check input validation on contact page          | ALL        | Pass         |
 |Check modal works        | Mobile     | Fail         |
 
 #### Bugs
