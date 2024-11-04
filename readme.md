@@ -28,6 +28,10 @@ Here we discuss the design in terms of:
 
 A list of stuff you used (Git, Github, HTML, CSS and anything else)
 
+## Media Copyrights
+
+Where you got your media from
+
 ## Testing
 
 ### Validator testing
@@ -49,3 +53,8 @@ A list of stuff you used (Git, Github, HTML, CSS and anything else)
 #### Bugs
 
 Modal did not work on iPhone so i did a,b and c to fix it a now it does after manual testing again
+
+## Deployment
+
+- Discuss how you used Git to track your building progress
+- Discuss how to activated Github Pages to make your site live.
